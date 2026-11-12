@@ -2,7 +2,7 @@
 
 Founder & CEO of Moxforge.
 
-## Learnito AI
+## MOXFORGE
 
 [Open MOXFORGE ORGANIZATION & INNOVATION](https://moxforge.vercel.app/)
 
